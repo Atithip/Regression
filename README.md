@@ -40,4 +40,8 @@ In this project, I followed a structured approach for data profiling and prepara
 ### 3. Final Dataset
 After applying the above cleaning steps, I now have a cleaned dataset, ready for further analysis.
 
+## STEP 2: Exploratory Data Analysis (EDA)
+
+
+
 
