@@ -42,6 +42,14 @@ After applying the above cleaning steps, I now have a cleaned dataset, ready for
 
 ## STEP 2: Exploratory Data Analysis (EDA)
 
+In this step, I tried to visualize the data to understand the relationship between the independent and the dependent varaible(charges).
+
+First I made a correlation matrix to see how each independent variables affected the dependent varaible. This allowed me to identify any strong linear relationships between the features and the target variable.The scatter plot for age showed a slightly positive trend, but the data points were widely scattered, indicating a lot of variability.Likewise, BMI showed an interesting relationship: a positive correlation at the lower end, but a flat relationship in the middle range.
+
+Then I made a scatter plot to understand the categorical variables relationship with the dependent  variable. For example, the smoker column showed a noticeable difference in charges between smokers and non-smokers, which suggests that smoking is an important factor affecting the charges.
+
+## STEP3 : Prepare data for model fitting
+
 
 
 
